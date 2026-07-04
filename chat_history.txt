@@ -1,0 +1,4 @@
+USER:i need to learn java
+AI:Java is an object-oriented programming language used to build desktop, web and enterprise applications.
+USER:more about java
+AI:Java is an object-oriented programming language used to build desktop, web and enterprise applications.
