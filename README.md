@@ -127,8 +127,33 @@ once you have completed running. kindly enter you username and password and regi
 
 After registration, use the same username and password to login
 ---
+##Screenshorts 
 
+##Login 
+<img width="437" height="337" alt="image" src="https://github.com/user-attachments/assets/abc7f86e-6c9f-4379-897e-e7dc235b6a01" />
+##Dashboard
+<img width="1188" height="661" alt="image" src="https://github.com/user-attachments/assets/f4427fdb-be3a-4d7d-96bf-2d086a21b3f5" />
 
+##Chat
+<img width="1184" height="664" alt="image" src="https://github.com/user-attachments/assets/7c1656a7-2bd6-47d7-b001-5d8115afe7b3" />
+
+##GPA Calculator
+<img width="1186" height="662" alt="image" src="https://github.com/user-attachments/assets/85d4f343-532d-4094-97fe-51b0145c22d7" />
+
+##career advisor
+<img width="1126" height="630" alt="image" src="https://github.com/user-attachments/assets/4470c6a0-3da8-4724-a16c-0caa9c807504" />
+
+##interview practice
+<img width="1183" height="663" alt="image" src="https://github.com/user-attachments/assets/859f3995-9a8b-4dd8-9c22-1887598da4ea" />
+
+##notes
+<img width="1183" height="655" alt="image" src="https://github.com/user-attachments/assets/4700d18c-8e8b-4b05-b385-b56d44b33856" />
+
+##Japan Mode
+<img width="1177" height="652" alt="image" src="https://github.com/user-attachments/assets/605f8ef2-5a00-4f51-af97-8409f4c78e7a" />
+##Voice assistance 
+
+<img width="1353" height="693" alt="image" src="https://github.com/user-attachments/assets/6b003efe-efe8-45a6-8369-b1630526b63d" />
 
 ## 🎯 Future Improvements
 
